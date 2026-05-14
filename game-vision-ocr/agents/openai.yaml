@@ -1,0 +1,3 @@
+display_name: Game Vision OCR
+short_description: OCR for canvas game screenshots.
+default_prompt: Use game-vision-ocr to extract structured balances, stakes, wins, history values, rules text, payout values, and free-spin counters from game screenshots.
